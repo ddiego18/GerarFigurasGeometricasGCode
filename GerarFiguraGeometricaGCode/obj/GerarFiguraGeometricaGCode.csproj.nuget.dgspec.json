@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddieg\\Desktop\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode.csproj": {}
+    "C:\\Users\\ddieg\\Desktop\\MeusProjetos\\GerarFigurasGeometricasGCode\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddieg\\Desktop\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode.csproj": {
+    "C:\\Users\\ddieg\\Desktop\\MeusProjetos\\GerarFigurasGeometricasGCode\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddieg\\Desktop\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode.csproj",
+        "projectUniqueName": "C:\\Users\\ddieg\\Desktop\\MeusProjetos\\GerarFigurasGeometricasGCode\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode.csproj",
         "projectName": "GerarFiguraGeometricaGCode",
-        "projectPath": "C:\\Users\\ddieg\\Desktop\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode.csproj",
+        "projectPath": "C:\\Users\\ddieg\\Desktop\\MeusProjetos\\GerarFigurasGeometricasGCode\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode.csproj",
         "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddieg\\Desktop\\GerarFiguraGeometricaGCode\\GerarFiguraGeometricaGCode\\obj\\",
+        "outputPath": "C:\\Users\\ddieg\\Desktop\\MeusProjetos\\GerarFigurasGeometricasGCode\\GerarFiguraGeometricaGCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config",

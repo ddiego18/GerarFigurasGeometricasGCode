@@ -11,3 +11,16 @@ C:\Users\ddieg\Desktop\GerarFiguraGeometricaGCode\GerarFiguraGeometricaGCode\obj
 C:\Users\ddieg\Desktop\GerarFiguraGeometricaGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.dll
 C:\Users\ddieg\Desktop\GerarFiguraGeometricaGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.pdb
 C:\Users\ddieg\Desktop\GerarFiguraGeometricaGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.genruntimeconfig.cache
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\bin\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.exe
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\bin\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.deps.json
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\bin\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.runtimeconfig.json
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\bin\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.runtimeconfig.dev.json
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\bin\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.dll
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\bin\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.pdb
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.csprojAssemblyReference.cache
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.AssemblyInfoInputs.cache
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.AssemblyInfo.cs
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.csproj.CoreCompileInputs.cache
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.dll
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.pdb
+C:\Users\ddieg\Desktop\MeusProjetos\GerarFigurasGeometricasGCode\GerarFiguraGeometricaGCode\obj\Debug\netcoreapp3.1\GerarFiguraGeometricaGCode.genruntimeconfig.cache

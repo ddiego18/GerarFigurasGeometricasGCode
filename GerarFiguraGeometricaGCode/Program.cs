@@ -11,7 +11,8 @@ namespace GerarFiguraGeometricaGCode
             int n;
             Console.WriteLine("Se quiser desenhar um retângulo, digite 1;");
             Console.WriteLine("Se quiser desenhar um círculo, digite 2;");
-            Console.WriteLine("Se quiser desenhar um triângulo, digite 3.");
+            Console.WriteLine("Se quiser desenhar um triângulo, digite 3;");
+            Console.WriteLine("Se quiser desenhar um triângulo, digite 4.");
             Console.WriteLine("Digite um dos números acima:");
             n = int.Parse(Console.ReadLine());
 
@@ -52,7 +53,23 @@ namespace GerarFiguraGeometricaGCode
                 double area = trinagulo.Area();
 
                 Console.WriteLine(trinagulo);
+            }else if(n == 4)
+            {
+                Console.WriteLine("Digite a largura do losango:");
+                double larg = double.Parse(Console.ReadLine());
+                Console.WriteLine("Digite a altura do losango:");
+                double alt = double.Parse(Console.ReadLine());
+
+                Diamond losango = new Diamond();
+                losango.Width = larg;
+                losango.Height = alt;
+
+                double area = losango.Area();
+
+                Console.WriteLine(losango);
             }
+
+
             else
             {
                 Console.WriteLine("Número inválido!!");
