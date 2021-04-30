@@ -12,7 +12,7 @@ namespace GerarFiguraGeometricaGCode
             Console.WriteLine("Se quiser desenhar um retângulo, digite 1;");
             Console.WriteLine("Se quiser desenhar um círculo, digite 2;");
             Console.WriteLine("Se quiser desenhar um triângulo, digite 3;");
-            Console.WriteLine("Se quiser desenhar um triângulo, digite 4.");
+            Console.WriteLine("Se quiser desenhar um losango, digite 4.");
             Console.WriteLine("Digite um dos números acima:");
             n = int.Parse(Console.ReadLine());
 
