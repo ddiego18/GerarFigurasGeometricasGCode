@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerarFiguraGeometricaGCode", "GerarFiguraGeometricaGCode\GerarFiguraGeometricaGCode.csproj", "{A15064DB-FFC3-4046-A61A-8A60DC871029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15064DB-FFC3-4046-A61A-8A60DC871029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15064DB-FFC3-4046-A61A-8A60DC871029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15064DB-FFC3-4046-A61A-8A60DC871029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15064DB-FFC3-4046-A61A-8A60DC871029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29B416D-75EA-4D17-9788-2FA517DC80B4}
+	EndGlobalSection
+EndGlobal
